@@ -1,0 +1,33 @@
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\bin\Debug\CountingSort.exe.config
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\bin\Debug\CountingSort.exe
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\bin\Debug\CountingSort.pdb
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.AssemblyReference.cache
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.Form1.resources
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.Properties.Resources.resources
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.GenerateResource.cache
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.exe
+C:\Users\R0Y999\source\repos\CountingSort\CountingSort\obj\Debug\CountingSort.pdb
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\bin\Debug\CountingSort.exe.config
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\bin\Debug\CountingSort.exe
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\bin\Debug\CountingSort.pdb
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.AssemblyReference.cache
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.Form1.resources
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.Properties.Resources.resources
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.GenerateResource.cache
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.exe
+C:\Users\Arisbeth\Desktop\GRAFOS\CountingSort\OneDrive_2022-11-09\Equipo 1 Counting Sort & Bucket Sort\CountingSort\CountingSort\obj\Debug\CountingSort.pdb
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\bin\Debug\CountingSort.exe.config
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\bin\Debug\CountingSort.exe
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\bin\Debug\CountingSort.pdb
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.AssemblyReference.cache
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.Properties.Resources.resources
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.GenerateResource.cache
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.exe
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.pdb
+C:\Users\Arisbeth\Desktop\Counting Sort\CountingSort\CountingSort\obj\Debug\CountingSort.frmCuentas.resources
